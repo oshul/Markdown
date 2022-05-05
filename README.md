@@ -23,4 +23,8 @@ __Markdown__ _is_ a lightweight markup *language* **with** *__plain__* text form
 
 ## How to display graphics?
 ### 1. Display a picture with a hover text
+  a. upload a picure to the github project
+  b. point to the picure using relative path, this is done using an exclamation mark, followed by the link to the picture within curved brackets
+  c. you also need to add some text within square brackets. this text will be displayed if the picure failed to load
+  
 
