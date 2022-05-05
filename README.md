@@ -26,7 +26,6 @@ __Markdown__ _is_ a lightweight markup *language* **with** *__plain__* text form
   a. upload a picure to the github project
   b. point to the picure using relative path, this is done using an exclamation mark, followed by the link to the picture within curved brackets
   c. you also need to add some text within square brackets. this text will be displayed if the picure failed to load
-  ![Stock photo](pexels-pixabay-38537.jpg "What a nice photo!")
-### 1. Add hover info.
+### 2. Add hover info.
 Add short informative text that will apper when the user's mouse hovers over the image. This is done by adding some words inside quatation marks. place it in the curved brackets, next to the picutre path. add a whitepace between them.
-
+  ![Stock photo](pexels-pixabay-38537.jpg "What a nice photo!")
