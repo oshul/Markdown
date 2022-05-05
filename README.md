@@ -9,5 +9,5 @@ Repo for testing markdown support on github
   - Surround text with two underscores on each side: __like this__
   - Surround text with two Asterisks on each side: **like this** 
 4. To create a title line like the one at the top of this page, start with a hashtag. it doesn't work within a line
-# Markdown
+
 &nbsp;1234&nbsp;3123123
