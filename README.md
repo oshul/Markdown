@@ -7,6 +7,6 @@ Repo for testing markdown support on github
 3. To create a strikthrough (line through the text), surround the word(s) with tildas: ~~Markup~~
 4. To make the text bold:
 - Surround text with two underscores on each side: __like this__
-- Surround text with two hashtag on each side: #Example 
+- Surround text with two Asterisks on each side: **like this** 
 
 # Markdown
