@@ -22,4 +22,5 @@ __Markdown__ _is_ a lightweight markup *language* **with** *__plain__* text form
   * [x] Buy milk 
 
 ## How to display graphics?
+#1. Display a picture with a hover text
 
