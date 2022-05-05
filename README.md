@@ -13,11 +13,13 @@ __Markdown__ _is_ a lightweight markup *language* **with** *__plain__* text form
   - Surround text with two Asterisks on each side: ##like this
 5. To create a bullet point, start the line with a minus sign.
 6. To create a title line like the one at the top of this page, start with a hashtag. the number of hastags determines the type:
-  # Big title
-  ## Middle title
+  # Large title
+  ## Medium title
   ### Small title
 
 7. Somethimes you want to present a list of itmes using checkboxes (for example, steps in a project). The line containing the checkbox has to start with a asterisk! Create an unchecked checkbox using square brackets with a space between them .To create a checked checkbox (completed item) put an x between the brackets.
   * [ ] Buy Bread
   * [x] Buy milk 
+
+## How to display graphics?
 
