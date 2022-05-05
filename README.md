@@ -17,6 +17,7 @@ __Markdown__ _is_ a lightweight markup *language* **with** *__plain__* text form
   ## Medium title
   ### Small title
 
+### Task List
 7. Somethimes you want to present a list of itmes using checkboxes (for example, steps in a project). The line containing the checkbox has to start with a asterisk! Create an unchecked checkbox using square brackets with a space between them .To create a checked checkbox (completed item) put an x between the brackets.
   * [ ] Buy Bread
   * [x] Buy milk 
