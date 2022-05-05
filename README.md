@@ -39,7 +39,7 @@ Add short informative text that will apper when the user's mouse hovers over the
 ## 9. Using refernnces
 Sometimes you may want to add multiple refrences to the same resource within the same document.
 This is done by:
-1. Declare a reference number by placing a *distinct* number within square brackets: [\1]
+1. Declare a reference number by placing a *distinct* number within square brackets: \[1]
 
 # TODO: Explore Mermaid
 On February 14th, GitHub gifted a new feature to all devlovers. Mermaid syntax is now supported by default in GitHub Markdown. This means that we can now create and edit diagrams in the native markdown file.
