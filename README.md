@@ -29,3 +29,10 @@ __Markdown__ _is_ a lightweight markup *language* **with** *__plain__* text form
 ### 2. Add hover info.
 Add short informative text that will apper when the user's mouse hovers over the image. This is done by adding some words inside quatation marks. place it in the curved brackets, next to the picutre path. add a whitepace between them.
   ![Stock photo](pexels-pixabay-38537.jpg "What a nice photo!")
+
+
+# TODO: Explore Mermaid
+On February 14th, GitHub gifted a new feature to all devlovers. Mermaid syntax is now supported by default in GitHub Markdown. This means that we can now create and edit diagrams in the native markdown file.
+But first, what is Mermaid? 🧜‍♀️
+
+Mermaid is a tool that renders diagrams based on markdown-like text content. It helps us visualize documentation and catch it up with development by dynamically creating and modifying diagrams in the browser. 
