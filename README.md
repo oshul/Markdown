@@ -26,5 +26,6 @@ __Markdown__ _is_ a lightweight markup *language* **with** *__plain__* text form
   a. upload a picure to the github project
   b. point to the picure using relative path, this is done using an exclamation mark, followed by the link to the picture within curved brackets
   c. you also need to add some text within square brackets. this text will be displayed if the picure failed to load
+  ![Stock photo](pexels-pixabay-38537.jpg)
   
 
