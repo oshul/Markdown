@@ -50,4 +50,4 @@ But first, what is Mermaid? 🧜‍♀️
 Mermaid is a tool that renders diagrams based on markdown-like text content. It helps us visualize documentation and catch it up with development by dynamically creating and modifying diagrams in the browser. 
 
 [1]: 
-https://github.com/oshul/Markdown/edit/main/pexels-pixabay-38537.jpg "What a nice photo!"
+https://github.com/oshul/Markdown/blob/main/pexels-pixabay-38537.jpg "What a nice photo!"
