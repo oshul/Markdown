@@ -36,13 +36,18 @@ Somethimes you want to present a list of itmes using checkboxes (for example, st
 Add short informative text that will apper when the user's mouse hovers over the image. This is done by adding some words inside quatation marks. place it in the curved brackets, next to the picutre path. add a whitepace between them.
   ![Stock photo](pexels-pixabay-38537.jpg "What a nice photo!")
 
-## 9. Using refernnces
+## 9. Using references
 Sometimes you may want to add multiple refrences to the same resource within the same document.
 This is done by:
-1. Declare a reference number by placing a *distinct* number within square brackets: \[1]
+1. Declare a reference number by placing a *distinct* number within square brackets followd by a colon: \[1]:. This is usually done at in a seperate segment at the bottom.
+2. Place the resource (usually a link or something) below the reference number.
+3. Add a reference to it where you want by adding the \[1] mark.[1]
 
 # TODO: Explore Mermaid
 On February 14th, GitHub gifted a new feature to all devlovers. Mermaid syntax is now supported by default in GitHub Markdown. This means that we can now create and edit diagrams in the native markdown file.
 But first, what is Mermaid? 🧜‍♀️
 
 Mermaid is a tool that renders diagrams based on markdown-like text content. It helps us visualize documentation and catch it up with development by dynamically creating and modifying diagrams in the browser. 
+
+[1]: 
+(pexels-pixabay-38537.jpg "What a nice photo!")
