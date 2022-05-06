@@ -34,8 +34,7 @@ Somethimes you want to present a list of itmes using checkboxes (for example, st
   c. you also need to add some text within square brackets. this text will be displayed if the picure failed to load
 ### 2. Add hover info.
 Add short informative text that will apper when the user's mouse hovers over the image. This is done by adding some words inside quatation marks. place it in the curved brackets, next to the picutre path. add a whitepace between them.
-  ![Stock photo](pexels-pixabay-38537.jpg "What a nice photo!")
-
+  ![Stock photo][1]
 ## 9. Using references
 Sometimes you may want to add multiple refrences to the same resource within the same document.
 This is done by:
