@@ -16,11 +16,15 @@ To make the text bold:
   - Surround text with two Asterisks on each side: ##like this
 # 4. Bullet points
 To create a bullet point, start the line with a minus sign.
-# 6. Titles
-To create a title line like the one at the top of this page, start with a hashtag. the number of hastags determines the type:
-  # Large title
-  ## Medium title
-  ### Small title
+
+# 6. Headers
+There are 6 types of headers (H1 through H6). To create a header line like the one at the top of this page, start with a hashtag. the number of hastags determines the type:
+  # H1 title
+  ## H2 title
+  ### H3 title
+  #### H4 title
+  ##### H5 title
+  ###### H6 title
 
 ### 7. Task List
 Somethimes you want to present a list of itmes using checkboxes (for example, steps in a project). The line containing the checkbox has to start with a asterisk! Create an unchecked checkbox using square brackets with a space between them .To create a checked checkbox (completed item) put an x between the brackets.
