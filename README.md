@@ -51,6 +51,10 @@ To create hirarchy wuthin the list, just add some white spaces at the start of t
     - Banana 
 - Vegetables
     - Tomato
+
+## 11. Escape charachters
+As described in previous sections, some charachters have a special meaning in markdown (e.g hashtag). But what if we want to display it as-is? Markdown has an escape charachter: \ add it to tell markdown to treat the following charachter as a regular one.
+
 # TODO: Explore Mermaid
 On February 14th, GitHub gifted a new feature to all devlovers. Mermaid syntax is now supported by default in GitHub Markdown. This means that we can now create and edit diagrams in the native markdown file.
 But first, what is Mermaid? 🧜‍♀️
