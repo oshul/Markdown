@@ -47,10 +47,10 @@ To create *un-ordered* lists, use \- at the begining of each line.
 To create *ordered* lists, use numbers and a dot at the begining of each line. the starting number matters, the rest don't.
 To create hirarchy wuthin the list, just add some white spaces at the start of the line. for example:
 - Fruits
- - Apple
- - Banana 
+    - Apple
+    - Banana 
 - Vegetables
- - Tomato
+    - Tomato
 # TODO: Explore Mermaid
 On February 14th, GitHub gifted a new feature to all devlovers. Mermaid syntax is now supported by default in GitHub Markdown. This means that we can now create and edit diagrams in the native markdown file.
 But first, what is Mermaid? 🧜‍♀️
